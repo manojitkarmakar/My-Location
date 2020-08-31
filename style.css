@@ -1,0 +1,27 @@
+a{
+		font-family: 'Alata', sans-serif;
+		font-family: 'Roboto Mono', monospace;
+		font-weight: bold;
+	}
+
+	h1{
+		font-family: 'Alata', sans-serif;
+		font-family: 'Roboto Mono', monospace;
+		color: white;
+	}
+
+	p{
+		font-family: 'Alata', sans-serif;
+		font-family: 'Roboto Mono', monospace;
+		font-size: 22px;
+		color: white;
+	}
+
+	body{
+		background: #7ddbdb;  
+		
+
+
+	}
+	.jumbo{
+		background: #7ddbdb;
